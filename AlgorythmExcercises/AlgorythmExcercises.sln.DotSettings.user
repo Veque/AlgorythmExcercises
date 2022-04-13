@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25ff9b05_002Da929_002D4403_002D8bed_002Db267c0535a1a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::94044D41-E456-445B-B3E6-9EFD0C7FB2C1::net6.0::Tests.Sorting.Selection&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::94044D41-E456-445B-B3E6-9EFD0C7FB2C1::net6.0::Tests.Sorting.Bubble&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::94044D41-E456-445B-B3E6-9EFD0C7FB2C1::net6.0::Tests.Sorting.Merge&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=db95a041_002Dc575_002D40b3_002D9f7c_002D8a145cc324d3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Selection" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::94044D41-E456-445B-B3E6-9EFD0C7FB2C1::net6.0::Tests.Sorting.Selection&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
